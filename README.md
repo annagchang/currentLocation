@@ -1,2 +1,2 @@
-# currentLocation
+# userLocation
 find current location on iOS
